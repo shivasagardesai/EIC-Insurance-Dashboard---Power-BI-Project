@@ -15,7 +15,7 @@ This project showcases an interactive Power BI dashboard built for a fictional i
 
 ## Dataset
 
-- <a href="https://data.mendeley.com/datasets/34nfrk36dt/1">
+- <a href="https://data.mendeley.com/datasets/34nfrk36dt/1">EIC Dataset </a>
 
 ## Overview
 
